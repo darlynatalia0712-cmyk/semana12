@@ -1,0 +1,9 @@
+Durante este curso aprendí que la tecnología puede ser una herramienta muy útil para fortalecer la 
+participación ciudadana y la organización comunitaria. Comprendí cómo desarrollar aplicaciones 
+básicas con Node.js y cómo organizar la información mediante bases de datos. También aprendí la 
+importancia de proteger los datos personales y aplicar buenas prácticas de seguridad digital. Entendí 
+que la automatización puede facilitar procesos como el envío de notificaciones sin reemplazar la
+supervisión humana. Además, conocí la utilidad de herramientas como Git y GitHub para controlar
+ versiones y compartir proyectos. Finalmente, aprendí que una plataforma sencilla puede ayudar a que
+ una comunidad registre necesidades, haga seguimiento a sus iniciativas y genere documentos de forma 
+organizada, transparente y segura.
